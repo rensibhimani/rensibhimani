@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rensibhimani
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me ....Instagram, FaceBook, Linkedin
+- 📫 How to reach me .... Linkedin
 
 <!---
 rensibhimani/rensibhimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
