@@ -3,12 +3,10 @@
    👀 I’m interested in **Web development**
    
    🌱 I’m currently learning **Full stack web devlopment**
-   
-   📫 How to reach me **rensibhimani96@gmail.com** & **patelrensi18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kundan-k-77a8851a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundan-k-77a8851a1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rensi-bhimani-222413b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rensi-bhimani-222413b4" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
